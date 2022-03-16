@@ -1,4 +1,4 @@
-package br.ulbra.classes;
+package br.ulbra.pessoa;
 
 public class Pobre extends Pessoa {
     
