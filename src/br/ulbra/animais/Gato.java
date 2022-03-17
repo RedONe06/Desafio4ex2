@@ -1,4 +1,4 @@
-package br.ulbra.animal;
+package br.ulbra.animais;
 
 public class Gato extends Animal {
     
